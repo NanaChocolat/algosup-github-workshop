@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"default": {
+			"compression": "RAW",
+			"mag-filter": "Anisotropic",
+			"min-filter": "Anisotropic",
+			"type": "NormalMap"
+		}
+	}
+}

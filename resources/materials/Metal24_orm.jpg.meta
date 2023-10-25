@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"default": {
+			"compression": "RAW",
+			"mag-filter": "Anisotropic",
+			"max-size": 16384,
+			"min-filter": "Anisotropic"
+		}
+	}
+}
