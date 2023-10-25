@@ -48,6 +48,7 @@ _let's the fun begin._ For this workshop we will use the Lua version of the HARF
 ## Step 6
 
 * Create a new .bat file to compile the `resources` using HARFANG's `assetc` command line (something like `assetc.exe ressources`)
+  * Check the details of how **assetc** works here : https://dev.harfang3d.com/docs/3.2.7/man.assets/
 * Test the .bat file
 * Git add, commit, comment, push
 * Create a new .bat file to run the `game_mouse_flight.lua` script (something like `lua.exe game_mouse_flight.lua`)
